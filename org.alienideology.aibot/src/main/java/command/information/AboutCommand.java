@@ -23,8 +23,8 @@ public class AboutCommand extends Command{
                                      + "Command Usage: `"+ Prefix.getDefaultPrefix() +"about`\n"
                                      + "Parameter: `-h | null`";
     
-    public final static String BOT_DES = "The AIBot that started in the March of 2017 for music and fun commands.\n"
-                                    + "**Developer:** Ayy™#3103 *aka* AlienIdeology\n"
+    public final static String BOT_DES = "The AIBot that started in the April of 2019 for music and fun commands.\n"
+                                    + "**Developer:** Aimi#0625\n"
                                     + "**Version:** " + Global.VERSION +"\n"
                                     + "**Announcement:** Working on Eval and Soft Ban~~\n"
                                     + "**Latest Changes:** music- AutoPlay\n"
