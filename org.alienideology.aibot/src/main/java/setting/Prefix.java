@@ -14,7 +14,7 @@ import main.*;
  * @author liaoyilin
  */
 public class Prefix {
-    public static String DIF_PREFIX = "=";
+    public static String DIF_PREFIX = "'";
     public static String BETA_PREFIX = ".";
     
     public synchronized static String getDefaultPrefix()
